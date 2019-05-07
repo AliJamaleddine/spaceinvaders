@@ -22,7 +22,7 @@ critère 1 : Existence espace de jeu
 critère 2 : Existence vaisseau 
 critère 3 : Capacité deplacement vaisseau 
 
-Fonctionalités mises en place : 
+# Fonctionalités mises en place : 
 
 Story n° 1 :Créer un espace de jeu
 Story n° 2 : Positionner un nouveau vaisseau dans l'espace de jeu
