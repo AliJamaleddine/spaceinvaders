@@ -37,7 +37,7 @@ En cours : Test : Le nouveau vaisseau ne peut pas être positionné en dehors de
 
 ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemots.PNG)
 
-
+J'ai eu quelques problèmes avec Eclipse, j'ai du tout réinstaller et refaire tout les TP ce qui m'a retardé. Je tacherai de prendre de l'avance durant les prochains TP et mon temps libre.
 
 
 
