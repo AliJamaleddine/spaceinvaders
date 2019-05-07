@@ -25,6 +25,7 @@ critère 3 : Capacité deplacement vaisseau
 # Fonctionalités mises en place : 
 
 Story n° 1 :Créer un espace de jeu
+
 Story n° 2 : Positionner un nouveau vaisseau dans l'espace de jeu
 
 En cours : Test : Le nouveau vaisseau ne peut pas être positionné en dehors de l'espace
