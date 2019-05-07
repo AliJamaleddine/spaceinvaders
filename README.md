@@ -4,7 +4,7 @@ Jamaleddine Ali
 
 Rapport Hébdomadaire : 
 
-#Semaine du 03/05/19 au 07/05/19
+# Semaine du 03/05/19 au 07/05/19
 
 
 Recherche critéres d'acceptance :
@@ -29,11 +29,11 @@ Story n° 2 : Positionner un nouveau vaisseau dans l'espace de jeu
 
 En cours : Test : Le nouveau vaisseau ne peut pas être positionné en dehors de l'espace
 
-#Diagramme de classes 
+# Diagramme de classes 
 
 ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/diagramme.PNG)
 
-#Nuage de mots
+# Nuage de mots
 
 ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemots.PNG)
 
