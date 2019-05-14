@@ -42,7 +42,7 @@ J'ai eu quelques problèmes avec Eclipse, j'ai du tout réinstaller et refaire t
 
 ---
 
-# Semaine du 07/à(/2019 au 14/05/2019
+# Semaine du 07/05/2019 au 14/05/2019
 
 Suite fonctionalité 1 : 
 
