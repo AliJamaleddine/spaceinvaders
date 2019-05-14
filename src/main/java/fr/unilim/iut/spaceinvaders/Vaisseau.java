@@ -8,6 +8,7 @@ public class Vaisseau {
 	public Vaisseau(int x, int y) {
 		this.x = x;
 		
+		
 		this.y = y;
 	}
 
@@ -15,4 +16,15 @@ public class Vaisseau {
 			return (this.x==x) && (this.y==y);
 		}
 
+	  public void seDeplacerVersLaDroite() {
+	      this.x = this.x + 1 ;
+   }
+
+		public int abscisse() {
+	        return this.x;
+		}
+
+		public void seDeplacerVersLaGauche() {
+			this.x = this.x - 1;
+		}
 }
