@@ -40,7 +40,46 @@ En cours : Test : Le nouveau vaisseau ne peut pas être positionné en dehors de
 
 J'ai eu quelques problèmes avec Eclipse, j'ai du tout réinstaller et refaire tout les TP ce qui m'a retardé. Je tacherai de prendre de l'avance durant les prochains TP et mon temps libre.
 
+---
 
+# Semaine du 07/05/2019 au 14/05/2019
+
+Suite fonctionalité 1 : 
+
+Story n° 3 : Déplacer le vaisseau vers la droite dans l'espace de jeu
+
+Story n°4 :  Déplacer le vaisseau vers la gauche dans l'espace de jeu
+
+En cours : Fonctionalité 2
+
+
+# Diagramme de classes 
+
+![alt text](https://github.com/AliJamaleddine/testgit/blob/master/DiagrammeDeClasses.PNG)
+
+# Nuage de mots
+
+![alt text](https://github.com/AliJamaleddine/testgit/blob/master/nuagedemots.PNG)
+
+---
+
+# Semaine du 14/05/2019 au 22/05/2019
+
+Fonctionalité 2 : 
+
+Etape n°1 : Positionner un nouveau vaisseau avec une dimension donnée
+
+étape n°2 :
+
+# Diagramme de classes 
+
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/diagrammedeclasses22mai.PNG)
+
+# Nuage de mots
+
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nouvnuagedemots.PNG)
+
+//Une reinstallation d'eclipse pour les Tp d'IHM a posé quelques problèmes
 
 
 
