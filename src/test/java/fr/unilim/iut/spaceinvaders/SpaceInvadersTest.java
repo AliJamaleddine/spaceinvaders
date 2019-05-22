@@ -146,6 +146,8 @@ import fr.unilim.iut.spaceinvaders.utils.HorsEspaceJeuException;
 			"V..............\n" , spaceinvaders.recupererEspaceJeuDansChaineASCII());
 		}
 	    
+	 
+	    
 	    @Test
 		public void test_unNouveauVaisseauAvecDimensionEstCorrectementPositionneDansEspaceJeu() {
 			spaceinvaders.positionnerUnNouveauVaisseau(3,2,7,9);

@@ -20,7 +20,8 @@ public class Vaisseau {
     public boolean occupeLaPosition(int x, int y) {
 		return (estAbscisseCouverte(x) && estOrdonneeCouverte(y));
 	}
-	public boolean estOrdonneeCouverte(int y) {
+	
+    public boolean estOrdonneeCouverte(int y) {
 		return (ordonneeLaPlusBasse()<=y) && (y<=ordonneeLaPlusHaute());
 	}
 	public int ordonneeLaPlusBasse() {

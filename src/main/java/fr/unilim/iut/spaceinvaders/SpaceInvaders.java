@@ -23,6 +23,7 @@ public class SpaceInvaders {
 	@Override
 	public String toString() {
 		return recupererEspaceJeuDansChaineASCII();
+	
 	}
 
 	public String recupererEspaceJeuDansChaineASCII() {
