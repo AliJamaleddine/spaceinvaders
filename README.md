@@ -55,11 +55,11 @@ En cours : Fonctionalité 2
 
 # Diagramme de classes 
 
-![alt text](https://github.com/AliJamaleddine/testgit/blob/master/DiagrammeDeClasses.PNG)
+![alt text](DiagrammeDeClasses.PNG)
 
 # Nuage de mots
 
-![alt text](https://github.com/AliJamaleddine/testgit/blob/master/nuagedemots.PNG)
+![alt text](nuagedemots.PNG)
 
 ---
 
