@@ -61,6 +61,25 @@ En cours : Fonctionalité 2
 
 ![alt text](https://github.com/AliJamaleddine/testgit/blob/master/nuagedemots.PNG)
 
+---
+
+# Semaine du 14/05/2019 au 22/05/2019
+
+Fonctionalité 2 : 
+
+Etape n°1 : Positionner un nouveau vaisseau avec une dimension donnée
+
+étape n°2 :
+
+# Diagramme de classes 
+
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/diagrammedeclasses22mai.PNG)
+
+# Nuage de mots
+
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nouvnuagedemots.PNG)
+
+//Une reinstallation d'eclipse pour les Tp d'IHM a posé quelques problèmes
 
 
 
