@@ -81,7 +81,18 @@ Etape n°1 : Positionner un nouveau vaisseau avec une dimension donnée
 
 //Une reinstallation d'eclipse pour les Tp d'IHM a posé quelques problèmes
 
+# Semaine du 22/05/2019 au 29/05/2019
 
+Avancement : 
+Fonctionalité 4 : 
+-Tirer un missile en TDD
+
+En cours : -Dessiner un missile
+
+# Diagramme de classes 
+
+
+# Nuage de mots
 
 
 
