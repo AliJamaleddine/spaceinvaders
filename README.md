@@ -95,6 +95,6 @@ En cours : -Dessiner un missile
 
 # Nuage de mots
 
-![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemot29mai.PNG)
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemots29mai.PNG)
 
 
