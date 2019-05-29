@@ -53,7 +53,7 @@ Story n°4 :  Déplacer le vaisseau vers la gauche dans l'espace de jeu
 En cours : Fonctionalité 2
 
 
-# Diagramme de classes 
+## Diagramme de classes 
 
 ![alt text](DiagrammeDeClasses.PNG)
 
