@@ -132,6 +132,7 @@ public class SpaceInvaders implements Jeu {
    public Missile recupererMissile() {
 	   return this.missile;
    }
+  
    public void tirerUnMissile(Dimension dimensionMissile, int vitesseMissile) {
 		
 	   if ((vaisseau.hauteur()+ dimensionMissile.hauteur()) > this.hauteur )
@@ -155,6 +156,11 @@ public class SpaceInvaders implements Jeu {
      if (commandeUser.tir) {
    	  tirerUnMissile( new Dimension(Constante.MISSILE_LONGUEUR,Constante.MISSILE_HAUTEUR), Constante.MISSILE_VITESSE);
      }
+     
+     if (commandeUser.tir && !this.aUnMissile())
+         tirerUnMissile(new Dimension(Constante.MISSILE_LONGUEUR, Constante.MISSILE_HAUTEUR),
+					Constante.MISSILE_VITESSE);
+	   }
    }
 
-}
+
