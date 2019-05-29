@@ -91,9 +91,10 @@ En cours : -Dessiner un missile
 
 # Diagramme de classes 
 
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Diagramme29mai.PNG)
 
 # Nuage de mots
 
-
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemot29mai.PNG)
 
 
