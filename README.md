@@ -116,14 +116,14 @@ Travail réalisé :  - créer un envahisseur à l'initialisation du jeu (pour l'
    
 ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Diagramegeneral.PNG)
 
-   ###### Diagrammes montrant les relations et l'héritage entre plusieures classes
+   #### Diagrammes montrant les relations et l'héritage entre plusieures classes
    
    ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relations%20classes1.PNG)
    
-   ###### Classes du moteur graphique
+   #### Classes du moteur graphique
    ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relation%20classes2.PNG)
    
-   ###### Les différentes classes de test
+   #### Les différentes classes de test
    ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relation%20classes3.PNG)
    
 ## *Nuage de mots*  
