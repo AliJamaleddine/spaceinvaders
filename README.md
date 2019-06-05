@@ -130,5 +130,11 @@ Travail réalisé :  - créer un envahisseur à l'initialisation du jeu (pour l'
               
    ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/nuagedemotsf2.PNG)
    
-   
+### Glossaire
+
+Vaisseau :  véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
+
+Envahisseur  :  ennemi qui apparaît à l'écran, se déplace automatiquement et qui doit être détruit par un missile lancé depuis le vaisseau du joueur.
+
+Missile :  projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire.
 
