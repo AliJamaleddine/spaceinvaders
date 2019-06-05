@@ -97,4 +97,36 @@ En cours : -Dessiner un missile
 
 ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/nuagedemots29mai.PNG)
 
+## **Semaine du 29/05/2019 au 26/06/2019**
+
+Objectif de la séance : Ajouter un envahisseur dans le jeu
+
+Nombre de fonctionnalités implémentées durant la séance : 2
+
+Travail réalisé :  - créer un envahisseur à l'initialisation du jeu (pour l'instant le jeu ne comportera qu'un seul envahisseur)
+                   - faire en sorte que le jeu gère automatiquement le déplacement automatique de cet envahisseur (uniquement des                            allers-retours de droite à gauche pour ce sprint)
+                   -Tests
+                   
+   Story n°1 : Créer un envahisseur.
+   Story n°2 : déplacement automatique envahisseur 
+   
+## *Diagramme de classes* 
+   
+   ###### Forme Generale du diagramme
+   
+![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Diagramegeneral.PNG)
+
+   ###### Diagrammes montrant les relations et l'héritage entre plusieures classes
+   
+   ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relations%20classes1.PNG)
+   
+   ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relation%20classes2.PNG)
+   
+   ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/Relation%20classes3.PNG)
+   
+## *Nuage de mots*  
+              
+   ![alt text](https://github.com/AliJamaleddine/spaceinvaders/blob/master/Picsrapport/nuagedemotsf2.PNG)
+   
+   
 
