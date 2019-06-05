@@ -1,6 +1,5 @@
 package fr.unilim.iut.spaceinvaders.moteurjeu;
 
-
 /**
  * classe MoteurGraphique represente un moteur de jeu generique.
  * 
@@ -26,10 +25,8 @@ public class MoteurGraphique {
 	/**
 	 * construit un moteur
 	 * 
-	 * @param pJeu
-	 *            jeu a lancer
-	 * @param pAffiche
-	 *            afficheur a utiliser
+	 * @param pJeu     jeu a lancer
+	 * @param pAffiche afficheur a utiliser
 	 */
 	public MoteurGraphique(Jeu pJeu, DessinJeu pAffiche) {
 		// creation du jeu
@@ -43,7 +40,7 @@ public class MoteurGraphique {
 	public void lancerJeu(int width, int height) throws InterruptedException {
 
 		// creation de l'interface graphique
-		this.gui = new InterfaceGraphique(this.dessin,width,height);
+		this.gui = new InterfaceGraphique(this.dessin, width, height);
 		Controleur controle = this.gui.getControleur();
 
 		// boucle de jeu
@@ -55,7 +52,7 @@ public class MoteurGraphique {
 			// affiche le jeu
 			this.gui.dessiner();
 			// met en attente
-			Thread.sleep(100);
+			Thread.sleep(30);
 		}
 	}
 
